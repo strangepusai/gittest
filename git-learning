@@ -24,3 +24,6 @@ Git 学习记录
 2.Git的优秀之处：
 	tracks changes rather than files
 	修改先放入stage在提交到版本库
+3.撤销修改
+	git checkout -- file 撤销修改至最近一次的版本库或暂存区状态
+	git reset HEAD -- file 把提交到stage的撤销回来
