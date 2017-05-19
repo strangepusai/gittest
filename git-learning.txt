@@ -29,3 +29,7 @@ Git 学习记录
 	git reset HEAD -- file 把提交到stage的撤销回来
 4.删除
 	rm xxx --> git rm xxx + git commit / git checkout -- file
+
+5.远程仓库
+	服务器仓库克隆，提交
+	Github：Git仓库托管服务
