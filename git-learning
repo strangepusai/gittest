@@ -27,3 +27,5 @@ Git 学习记录
 3.撤销修改
 	git checkout -- file 撤销修改至最近一次的版本库或暂存区状态
 	git reset HEAD -- file 把提交到stage的撤销回来
+4.删除
+	rm xxx --> git rm xxx + git commit / git checkout -- file
