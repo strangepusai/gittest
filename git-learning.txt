@@ -33,3 +33,6 @@ Git 学习记录
 5.远程仓库
 	服务器仓库克隆，提交
 	Github：Git仓库托管服务
+	关联远程仓库：git remote add orgin 
+	修改远程仓库：git remote set-url 
+	推送至远程仓库：git push (-u) origin master
