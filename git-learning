@@ -15,3 +15,12 @@ Git 学习记录
 	git status 
 	git log 
 	git reset --hard HEAD^(commit id)
+
+第1天
+1.工作区（work directory）与暂存区（stage）
+	git add：work directory-->stage
+	git commit：stage一次性提交到当前分支
+	git diff：比较directory和stage的区别
+2.Git的优秀之处：
+	tracks changes rather than files
+	修改先放入stage在提交到版本库
